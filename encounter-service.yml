@@ -1,0 +1,7 @@
+server:
+  port: 7075
+  
+database:
+  host: 127.0.0.1
+  port: 9042
+  name: encounters
